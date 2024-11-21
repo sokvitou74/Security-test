@@ -9,7 +9,7 @@
         "express": "^4.19.2",
         "jsonwebtoken": "^9.0.0",
         "jsrender": "^1.0.12",
-        "node.extend": "1.1.6",
+        "node.extend": "1.1.8",
         "nodemon": "^2.0.20",
         "path": "^0.12.7",
         "sequelize": "^6.28.0",
